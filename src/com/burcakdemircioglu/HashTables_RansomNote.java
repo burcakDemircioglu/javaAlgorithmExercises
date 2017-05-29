@@ -3,6 +3,11 @@ package com.burcakdemircioglu;
 import java.util.HashMap;
 import java.util.Scanner;
 
+/**
+ * Created by burcakdemircioglu on 20/04/2017.
+ */
+//https://www.hackerrank.com/challenges/ctci-ransom-note
+//Please do not directly copy the answer! These answers are just for educational purposes.
 public class HashTables_RansomNote {
 
   public static void main(String[] args) {
