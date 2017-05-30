@@ -1,4 +1,4 @@
-package com.burcakdemircioglu;
+package com.burcakdemircioglu.techniquesconcepts;
 
 import java.util.HashMap;
 import java.util.Map;
