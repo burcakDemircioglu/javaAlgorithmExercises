@@ -1,4 +1,4 @@
-package com.burcakdemircioglu.datastructures;
+package com.burcakdemircioglu.crackingthecodinginterview.datastructures;
 
 import java.util.HashMap;
 import java.util.Scanner;

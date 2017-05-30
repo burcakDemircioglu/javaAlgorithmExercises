@@ -1,4 +1,4 @@
-package com.burcakdemircioglu.techniquesconcepts;
+package com.burcakdemircioglu.crackingthecodinginterview.techniquesconcepts;
 
 import java.util.Scanner;
 
